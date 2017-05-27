@@ -25,7 +25,7 @@ SECRET_KEY = 'z9982=#n#glhe$d^w2yo4&831k#_y!obr-tqe6x50yv=#$idrj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.2.52']
+ALLOWED_HOSTS = ['192.168.2.52', 'test3au-kbc.herokuapp.com']
 
 
 # Application definition
